@@ -13,8 +13,7 @@ By the end of Part I of the course you should be able to <br>
 - develop familiarity with typical libraries like math,numpy,matplotlib
 - use lists, dictionaries and arrays for calculations 
 - read data from csv files and perform basic file operations
--  work with basic operations on pixels of images<br><br>
-By the end of Part II of the course you should be able to
+-  work with basic operations on pixels of images<br><br>By the end of Part II of the course you should be able to
 - Write and debug code using Jupyter Notebooks
 - be able to work with querying data using pandas
 - create graphs and charts using matplotlib
