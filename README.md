@@ -7,7 +7,7 @@ By the end of Part I of the course you should be able to <br>
 - Write and debug python code using Jupyter Notebooks
 - be able to execute code using the following operators
 -   conditional statments : if
--   operators : <,<,=,==,and,or
+-   operators : <,<,=,==,and,or,not
 - be able to decompose code using functions 
 - use 'while' and 'for' loops along with 'range' function
 - develop familiarity with typical libraries like math,numpy,matplotlib
