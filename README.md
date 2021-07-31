@@ -20,5 +20,5 @@ By the end of Part I of the course you should be able to <br>
 By the end of Part III of the course you should be able to
 - become familiar with implementing some of common statistical functions like mean,median,mode,standard deviation
 - be able to create plots used in Data Science like Histograms ,scatter plots, contour plots, correlation plots 
-- run linear and logistic regression on data , understand modeling metrics like R-Square,accuracy,precision
+- run linear and logistic regression on data , understand modeling metrics like R-Squared,accuracy,precision
 - be able to interpret your results 
